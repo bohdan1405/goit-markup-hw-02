@@ -11,7 +11,7 @@ ul,
 ol {
   list-style: none;
 }
-/* header jkkpkpl[l[pl[l[ll[;[pjiohugtydhh */
+/*--------------------- header------------------------- */
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -44,19 +44,21 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* infojngkjntrknkjlkllijoiho*/
+/*----------------- info-----------------*/
 
-/*  our comanda*/
+/*  -----------------our comanda--------------------*/
 .team {
   background: #f4f4fd;
 }
-/*footer*/
+/*-------------------------footer--------------------*/
+
+.logo-part-2 {
+  color: #f4f4fd;
+}
 .foote {
   background: black;
 }
-.logo-part2 {
-  color: #fff;
-}
+
 .footer-text {
   color: #fff;
 }
